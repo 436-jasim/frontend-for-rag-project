@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API = import.meta.env.VITE_API_URL;
+const API = "https://backend-for-rag-project.onrender.com"; // Replace with your backend API URL
 
 // ---------------------------------------------------
 // Authentication Helpers
